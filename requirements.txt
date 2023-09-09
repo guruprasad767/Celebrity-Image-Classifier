@@ -1,0 +1,9 @@
+Flask
+python-utils
+simplejson
+joblib
+numpy
+pybase64
+opencv-python
+PyWavelets
+scikit-learn
